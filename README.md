@@ -18,58 +18,65 @@ Here are some ideas to get you started:
 
 # JAYATU
 
-### Computer Science Student · Developer · Technology Enthusiast
+### Computer Science Student | Developer | AI & Technology Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Thoughtful+Digital+Experiences;Exploring+Artificial+Intelligence+%26+Software;Learning+Through+Projects+%26+Problem+Solving;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Ideas+Into+Digital+Experiences;Exploring+Artificial+Intelligence+%26+Software;Solving+Problems+Through+Code;Learning%2C+Building%2C+Improving" alt="Typing Animation" />
 
-<br>
+<br/>
 
 <a href="https://github.com/Incarnate-Jayatu">
-<img src="https://img.shields.io/badge/GitHub-Incarnate--Jayatu-0D1117?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/jayatu-bhattad/">
-<img src="https://img.shields.io/badge/LinkedIn-Jayatu_Bhattad-0D1117?style=flat-square&logo=linkedin&logoColor=00A0DC"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
 
-## About
+## `> whoami`
 
-I am a Computer Science student at **DES Pune University**, interested in software development, problem solving, and emerging technologies.
+```text
+Name        : JAYATU
+Role        : Computer Science Student & Developer
+University  : DES Pune University
+Interests   : Artificial Intelligence, Web Development, DSA
+Mindset     : Build. Break. Learn. Repeat.
+```
 
-My approach to learning is practical: understand the fundamentals, build projects, experiment with ideas, and continuously improve.
-
-I am currently exploring web technologies, artificial intelligence, and Data Structures & Algorithms while developing educational and productivity-focused applications.
+I am a Computer Science student passionate about technology, software development, and problem solving. I enjoy transforming ideas into functional digital products while continuously exploring new technologies and improving my technical skills.
 
 ---
 
-## Technical Skills
+## `> tech_stack`
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
 ### Web Development & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,vercel" />
 </p>
 
-### Core Areas
+### Areas of Interest
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Time Complexity Analysis
-* Problem Solving
-* Software Development Fundamentals
+```text
+Artificial Intelligence
+Web Development
+Data Structures & Algorithms
+Problem Solving
+Software Engineering
+Technology & Innovation
+```
 
 ---
 
-## Selected Projects
+## `> featured_projects`
 
 <table>
 <tr>
@@ -77,11 +84,13 @@ I am currently exploring web technologies, artificial intelligence, and Data Str
 
 ### Python Learning Console
 
-An interactive learning platform designed to help students understand Python programming through structured modules, practical examples, and educational resources.
+An interactive web-based learning platform designed to help students learn Python through structured modules, practical examples, and downloadable resources.
 
-**Technologies:** HTML, CSS, JavaScript
+**Tech:** HTML · CSS · JavaScript
 
-[View Live Project →](https://python-learning-console.vercel.app/)
+<a href="https://python-learning-console.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black"/>
+</a>
 
 </td>
 
@@ -89,9 +98,9 @@ An interactive learning platform designed to help students understand Python pro
 
 ### DSA Patterns & Techniques
 
-A visual educational platform focused on simplifying Data Structures and Algorithms through patterns, techniques, and structured explanations.
+A structured learning resource that organizes important Data Structures and Algorithms patterns and techniques for efficient problem solving.
 
-**Focus:** Algorithms, Problem Solving, Learning Experience
+**Tech:** HTML · CSS · JavaScript
 
 </td>
 </tr>
@@ -101,19 +110,19 @@ A visual educational platform focused on simplifying Data Structures and Algorit
 
 ### Time Complexity Analyzer
 
-An educational tool designed to help learners understand algorithm efficiency and Big O notation through interactive examples and visual explanations.
+An educational tool that helps learners understand and analyze the time complexity of algorithms through interactive examples and visual explanations.
 
-**Focus:** Algorithm Analysis, Complexity, Computer Science Fundamentals
+**Tech:** HTML · CSS · JavaScript
 
 </td>
 
 <td width="50%" valign="top">
 
-### Exploring AI
+### AI & Software Experiments
 
-Currently exploring applications of Artificial Intelligence in education, productivity, and software development.
+Exploring artificial intelligence, automation, modern development tools, and experimental software projects.
 
-**Focus:** Experimentation, Research, Innovation
+**Focus:** AI · Web · Automation · Innovation
 
 </td>
 </tr>
@@ -121,39 +130,47 @@ Currently exploring applications of Artificial Intelligence in education, produc
 
 ---
 
-## Current Focus
+## `> current_focus`
 
-```text
-01  Strengthening programming fundamentals
-02  Improving Data Structures & Algorithms
-03  Building meaningful web applications
-04  Exploring Artificial Intelligence
-05  Learning through collaboration and experimentation
+```diff
++ Strengthening Data Structures & Algorithms
++ Building practical web applications
++ Exploring Artificial Intelligence
++ Improving software development practices
++ Learning through hands-on projects
 ```
 
 ---
 
-## Beyond Code
+## `> beyond_code`
 
-Alongside technical development, I am interested in collaboration, team management, and organizing meaningful initiatives.
+Technology is not only about writing code. I also enjoy working with people, organizing activities, and contributing to collaborative environments.
 
-During my first year at university, I had the opportunity to contribute to and manage multiple events within my IEEE Student Branch, strengthening my communication, coordination, and leadership skills.
-
-I believe strong technology is built not only through code, but also through teamwork and thoughtful problem-solving.
+During my first year, I was involved in managing multiple events within my IEEE Student Branch, which helped me develop communication, teamwork, leadership, and execution skills alongside my technical journey.
 
 ---
 
-## Connect
+## `> connect`
 
 <div align="center">
 
 <a href="https://github.com/Incarnate-Jayatu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explore_My_Code-GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jayatu-bhattad/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+```text
+> Initializing profile...
+> Loading curiosity...
+> Compiling ideas...
+> Deploying projects...
+> Status: Always learning.
+```
 
 </div>
 
@@ -161,6 +178,7 @@ I believe strong technology is built not only through code, but also through tea
 
 <div align="center">
 
-<i>Learning continuously. Building intentionally.</i>
+### Build with curiosity. Ship with purpose.
 
 </div>
+
