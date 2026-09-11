@@ -16,95 +16,208 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# Jayatu Avinash Bhattad
+# JAYATU AVINASH BHATTAD
 
-**Computer Science Student &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; AI Enthusiast**
+### `Computer Science Student • Developer • AI Enthusiast`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=CS+Student+%40+DES+Pune+University;Building+with+Python%2C+JavaScript%2C+and+C%2B%2B;Exploring+AI+%2F+ML+and+Software+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Digital+Reality;Exploring+AI+%26+Emerging+Technologies;Learning+Data+Structures+%26+Algorithms;Creating+Innovative+Web+Experiences" alt="Typing SVG" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Incarnate--Jayatu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Incarnate-Jayatu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayatu_Bhattad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayatu-bhattad/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Incarnate-Jayatu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jayatu-bhattad/)
 
 </div>
 
-<br>
+---
 
-## Overview
+## 🧠 About Me
 
-Computer Science student at **DES Pune University**, focused on software engineering fundamentals, data structures & algorithms, and applied AI. I build tools that make technical concepts easier to learn, and I'm working toward deeper experience in AI-powered application development.
+```python
+class Jayatu:
 
+    def __init__(self):
+        self.name = "JAYATU"
+        self.education = "Computer Science Student @ DES Pune University"
+        self.interests = [
+            "Artificial Intelligence",
+            "Web Development",
+            "Data Structures & Algorithms",
+            "Technology & Innovation"
+        ]
+        self.mindset = "Learn → Build → Improve → Repeat"
+
+    def current_focus(self):
+        return [
+            "Building meaningful digital products",
+            "Strengthening problem-solving skills",
+            "Exploring AI-powered applications",
+            "Collaborating with innovative minds"
+        ]
 ```
-$ whoami
-> CS student, DES Pune University
 
-$ focus
-> Data Structures & Algorithms
-> AI / ML fundamentals
-> Full-stack web development
+I am a Computer Science student at **DES Pune University**, passionate about transforming ideas into functional, meaningful, and visually engaging digital experiences.
 
-$ status
-> Actively building, learning, and shipping
-```
+My journey revolves around continuous learning, experimentation, and building projects that make complex concepts easier to understand.
 
-<br>
+---
 
-## Tech Stack
-
-| Category | Technologies |
-|---|---|
-| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Web** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| **Deployment** | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-
-<br>
-
-## Areas of Focus
-
-- **Data Structures & Algorithms** — time complexity analysis, problem-solving patterns
-- **Web Development** — building responsive, functional interfaces
-- **Artificial Intelligence** — exploring applied AI and ML fundamentals
-- **Software Engineering** — writing clean, maintainable code
-
-<br>
-
-## Projects
-
-**Python Learning Console**
-Interactive platform for learning Python through structured modules and practical examples.
-`HTML` `CSS` `JavaScript` — [Live Demo](https://python-learning-console.vercel.app/)
-
-**DSA Patterns & Techniques**
-Visual reference for Data Structures and Algorithms, organized by pattern and technique.
-`HTML` `CSS` `JavaScript` — [Live Demo](https://dsa-the-complete-guide.vercel.app/)
-
-**Time Complexity Analyzer**
-Tool for analyzing and visualizing algorithm time complexity (Big O).
-`HTML` `CSS` `JavaScript` — [Live Demo](https://timecomplexity-seven.vercel.app/)
-
-**AI Projects** — *in progress*
-Exploring applications at the intersection of AI, education, and productivity.
-
-<br>
-
-## GitHub Stats
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Incarnate-Jayatu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incarnate-Jayatu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="49%" />
+### Programming Languages
 
-<img src="https://streak-stats.demolab.com/?user=Incarnate-Jayatu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="100%" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&perline=5" />
+
+### Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4" />
 
 </div>
 
-<br>
+---
 
-## Connect
+## 📚 Core Knowledge
 
-[![GitHub](https://img.shields.io/badge/GitHub-Incarnate--Jayatu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Incarnate-Jayatu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayatu_Bhattad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayatu-bhattad/)
+| Domain           | Focus Areas                          |
+| :--------------- | :----------------------------------- |
+| Programming      | C, C++, Java, Python                 |
+| Web Development  | HTML, CSS, JavaScript                |
+| Computer Science | Data Structures, Algorithms, OOP     |
+| Problem Solving  | Time Complexity & Algorithm Analysis |
+| Tools            | Git, GitHub, VS Code                 |
+| Deployment       | Vercel                               |
 
-<sub>© Jayatu Avinash Bhattad</sub>
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Python Learning Console
+
+An interactive educational platform designed to help students learn Python through structured modules, practical examples, and downloadable learning resources.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [Live Demo](https://python-learning-console.vercel.app/)
+
+</td>
+
+<td width="50%">
+
+### 🧩 DSA Patterns & Techniques
+
+A visual learning platform that simplifies Data Structures and Algorithms using patterns, techniques, and intuitive explanations.
+
+**Focus:** Problem Solving • Algorithms • Visual Learning
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [Live Demo](https://dsa-the-complete-guide.vercel.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⏱️ Time Complexity Analyzer
+
+An educational tool designed to make algorithm complexity analysis easier through interactive examples and visual explanations.
+
+**Focus:** Big O • Algorithm Analysis • Learning Tools
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [Live Demo](https://timecomplexity-seven.vercel.app/)
+
+</td>
+
+<td width="50%">
+
+### 🤖 Future AI Projects
+
+Currently exploring ideas at the intersection of Artificial Intelligence, education, and productivity.
+
+**Status:** Building the Future
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Incarnate-Jayatu&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+<table>
+<tr>
+<td>
+
+```text
+┌──────────────────────────────────────────────┐
+│  SYSTEM STATUS: ACTIVE                       │
+│  MODE: LEARNING & BUILDING                   │
+└──────────────────────────────────────────────┘
+
+> Master Data Structures & Algorithms
+> Develop AI-powered applications
+> Build innovative digital products
+> Contribute to open source
+> Grow as a software developer
+```
+</table>
+
+---
+
+## 🌌 Philosophy
+
+> "Technology is not just about writing code.
+> It's about creating possibilities."
+
+---
+
+## 📡 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Incarnate-Jayatu">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jayatu-bhattad/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile.
+
+<img src="https://komarev.com/ghpvc/?username=Incarnate-Jayatu&label=Profile+Views&color=00F7FF&style=flat-square" />
+
+<br><br>
+
+<i>Built with curiosity. Driven by innovation. Powered by code.</i>
+
+</div>
