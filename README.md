@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **Incarnate-Jayatu/Incarnate-Jayatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Incarnate-Jayatu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jayatu-bhattad/)
 
 </div>
 
@@ -86,8 +86,6 @@ My journey revolves around continuous learning, experimentation, and building pr
 
 ## 📚 Core Knowledge
 
-<div align="center">
-
 | Domain           | Focus Areas                          |
 | :--------------- | :----------------------------------- |
 | Programming      | C, C++, Java, Python                 |
@@ -96,8 +94,6 @@ My journey revolves around continuous learning, experimentation, and building pr
 | Problem Solving  | Time Complexity & Algorithm Analysis |
 | Tools            | Git, GitHub, VS Code                 |
 | Deployment       | Vercel                               |
-
-</div>
 
 ---
 
@@ -157,9 +153,9 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Incarnate-Jayatu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incarnate-Jayatu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
 
 </div>
 
@@ -169,7 +165,7 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com/?user=Incarnate-Jayatu&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
@@ -179,7 +175,7 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Incarnate-Jayatu/Incarnate-Jayatu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -226,7 +222,7 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 
 ### Thanks for visiting my profile.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00F7FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Incarnate-Jayatu&label=Profile+Views&color=00F7FF&style=flat-square" />
 
 <br><br>
 
