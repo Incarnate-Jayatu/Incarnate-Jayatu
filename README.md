@@ -159,8 +159,17 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 
 ## 🎯 Current Mission
 
+## 🎯 Current Mission
+
+<table>
+<tr>
+<td>
+
 ```text
-[████████████████████████░░░░] Learning & Building
+┌──────────────────────────────────────────────┐
+│  SYSTEM STATUS: ACTIVE                       │
+│  MODE: LEARNING & BUILDING                   │
+└──────────────────────────────────────────────┘
 
 > Master Data Structures & Algorithms
 > Develop AI-powered applications
