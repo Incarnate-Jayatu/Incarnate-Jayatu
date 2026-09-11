@@ -119,6 +119,10 @@ A visual learning platform that simplifies Data Structures and Algorithms using 
 
 **Focus:** Problem Solving • Algorithms • Visual Learning
 
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [Live Demo](https://dsa-the-complete-guide.vercel.app/)
+
 </td>
 </tr>
 
@@ -130,6 +134,10 @@ A visual learning platform that simplifies Data Structures and Algorithms using 
 An educational tool designed to make algorithm complexity analysis easier through interactive examples and visual explanations.
 
 **Focus:** Big O • Algorithm Analysis • Learning Tools
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [Live Demo](https://timecomplexity-seven.vercel.app/)
 
 </td>
 
