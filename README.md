@@ -171,16 +171,6 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Incarnate-Jayatu/Incarnate-Jayatu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 ## 🎯 Current Mission
 
 ```text
