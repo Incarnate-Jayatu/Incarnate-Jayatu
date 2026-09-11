@@ -159,8 +159,6 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 
 ## 🎯 Current Mission
 
-## 🎯 Current Mission
-
 <table>
 <tr>
 <td>
@@ -177,6 +175,7 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 > Contribute to open source
 > Grow as a software developer
 ```
+</table>
 
 ---
 
