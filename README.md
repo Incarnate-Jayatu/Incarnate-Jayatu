@@ -16,130 +16,104 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# JAYATU AVINASH BHATTAD
+# JAYATU
 
-### `Computer Science Student • Developer • AI Enthusiast`
+### Computer Science Student · Developer · Technology Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Digital+Reality;Exploring+AI+%26+Emerging+Technologies;Learning+Data+Structures+%26+Algorithms;Creating+Innovative+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Thoughtful+Digital+Experiences;Exploring+Artificial+Intelligence+%26+Software;Learning+Through+Projects+%26+Problem+Solving;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Incarnate-Jayatu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jayatu-bhattad/)
+<a href="https://github.com/Incarnate-Jayatu">
+<img src="https://img.shields.io/badge/GitHub-Incarnate--Jayatu-0D1117?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jayatu-bhattad/">
+<img src="https://img.shields.io/badge/LinkedIn-Jayatu_Bhattad-0D1117?style=flat-square&logo=linkedin&logoColor=00A0DC"/>
+</a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-```python
-class Jayatu:
+I am a Computer Science student at **DES Pune University**, interested in software development, problem solving, and emerging technologies.
 
-    def __init__(self):
-        self.name = "JAYATU"
-        self.education = "Computer Science Student @ DES Pune University"
-        self.interests = [
-            "Artificial Intelligence",
-            "Web Development",
-            "Data Structures & Algorithms",
-            "Technology & Innovation"
-        ]
-        self.mindset = "Learn → Build → Improve → Repeat"
+My approach to learning is practical: understand the fundamentals, build projects, experiment with ideas, and continuously improve.
 
-    def current_focus(self):
-        return [
-            "Building meaningful digital products",
-            "Strengthening problem-solving skills",
-            "Exploring AI-powered applications",
-            "Collaborating with innovative minds"
-        ]
-```
-
-I am a Computer Science student at **DES Pune University**, passionate about transforming ideas into functional, meaningful, and visually engaging digital experiences.
-
-My journey revolves around continuous learning, experimentation, and building projects that make complex concepts easier to understand.
+I am currently exploring web technologies, artificial intelligence, and Data Structures & Algorithms while developing educational and productivity-focused applications.
 
 ---
 
-## ⚡ Tech Arsenal
-
-<div align="center">
+## Technical Skills
 
 ### Programming Languages
 
+<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&perline=5" />
+</p>
 
-### Web Technologies
+### Web Development & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,vercel&perline=6" />
+</p>
 
-### Tools & Platforms
+### Core Areas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4" />
-
-</div>
-
----
-
-## 📚 Core Knowledge
-
-| Domain           | Focus Areas                          |
-| :--------------- | :----------------------------------- |
-| Programming      | C, C++, Java, Python                 |
-| Web Development  | HTML, CSS, JavaScript                |
-| Computer Science | Data Structures, Algorithms, OOP     |
-| Problem Solving  | Time Complexity & Algorithm Analysis |
-| Tools            | Git, GitHub, VS Code                 |
-| Deployment       | Vercel                               |
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Time Complexity Analysis
+* Problem Solving
+* Software Development Fundamentals
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 Python Learning Console
+### Python Learning Console
 
-An interactive educational platform designed to help students learn Python through structured modules, practical examples, and downloadable learning resources.
+An interactive learning platform designed to help students understand Python programming through structured modules, practical examples, and educational resources.
 
-**Tech:** HTML • CSS • JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
-🔗 [Live Demo](https://python-learning-console.vercel.app/)
+[View Live Project →](https://python-learning-console.vercel.app/)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧩 DSA Patterns & Techniques
+### DSA Patterns & Techniques
 
-A visual learning platform that simplifies Data Structures and Algorithms using patterns, techniques, and intuitive explanations.
+A visual educational platform focused on simplifying Data Structures and Algorithms through patterns, techniques, and structured explanations.
 
-**Focus:** Problem Solving • Algorithms • Visual Learning
+**Focus:** Algorithms, Problem Solving, Learning Experience
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⏱️ Time Complexity Analyzer
+### Time Complexity Analyzer
 
-An educational tool designed to make algorithm complexity analysis easier through interactive examples and visual explanations.
+An educational tool designed to help learners understand algorithm efficiency and Big O notation through interactive examples and visual explanations.
 
-**Focus:** Big O • Algorithm Analysis • Learning Tools
+**Focus:** Algorithm Analysis, Complexity, Computer Science Fundamentals
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Future AI Projects
+### Exploring AI
 
-Currently exploring ideas at the intersection of Artificial Intelligence, education, and productivity.
+Currently exploring applications of Artificial Intelligence in education, productivity, and software development.
 
-**Status:** Building the Future
+**Focus:** Experimentation, Research, Innovation
 
 </td>
 </tr>
@@ -147,59 +121,38 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Incarnate-Jayatu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incarnate-Jayatu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Incarnate-Jayatu&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-
-</div>
-
----
-
-## 🎯 Current Mission
+## Current Focus
 
 ```text
-[████████████████████████░░░░] Learning & Building
-
-> Master Data Structures & Algorithms
-> Develop AI-powered applications
-> Build innovative digital products
-> Contribute to open source
-> Grow as a software developer
+01  Strengthening programming fundamentals
+02  Improving Data Structures & Algorithms
+03  Building meaningful web applications
+04  Exploring Artificial Intelligence
+05  Learning through collaboration and experimentation
 ```
 
 ---
 
-## 🌌 Philosophy
+## Beyond Code
 
-> "Technology is not just about writing code.
-> It's about creating possibilities."
+Alongside technical development, I am interested in collaboration, team management, and organizing meaningful initiatives.
+
+During my first year at university, I had the opportunity to contribute to and manage multiple events within my IEEE Student Branch, strengthening my communication, coordination, and leadership skills.
+
+I believe strong technology is built not only through code, but also through teamwork and thoughtful problem-solving.
 
 ---
 
-## 📡 Connect With Me
+## Connect
 
 <div align="center">
 
 <a href="https://github.com/Incarnate-Jayatu">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jayatu-bhattad/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -208,12 +161,6 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 
 <div align="center">
 
-### Thanks for visiting my profile.
-
-<img src="https://komarev.com/ghpvc/?username=Incarnate-Jayatu&label=Profile+Views&color=00F7FF&style=flat-square" />
-
-<br><br>
-
-<i>Built with curiosity. Driven by innovation. Powered by code.</i>
+<i>Learning continuously. Building intentionally.</i>
 
 </div>
