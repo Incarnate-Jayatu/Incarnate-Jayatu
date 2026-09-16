@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## 🧠 About Me
 
 ```python
-class Jayatu:
+class JayatuBhattad:
 
     def __init__(self):
         self.name = "JAYATU"
