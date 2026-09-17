@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Incarnate-Jayatu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jayatu-bhattad/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jayatubhattad07/)
 
 </div>
 
@@ -204,6 +205,10 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 
 <a href="https://www.linkedin.com/in/jayatu-bhattad/">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/jayatubhattad07/">
+<img src="https://img.shields.io/badge/LeetCode-Solve_With_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> 
 </a>
 
 </div>
