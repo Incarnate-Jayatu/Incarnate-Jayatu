@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### `Computer Science Student • Developer • AI Enthusiast`
 
-<img src="https://readme-typing-svg.demolab.com?font=Times New Roman+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Digital+Reality;Exploring+AI+%26+Emerging+Technologies;Learning+Data+Structures+%26+Algorithms;Creating+Innovative+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Digital+Reality;Exploring+AI+%26+Emerging+Technologies;Learning+Data+Structures+%26+Algorithms;Creating+Innovative+Web+Experiences" alt="Typing SVG" />
 
 <br>
 
