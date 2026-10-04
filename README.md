@@ -217,12 +217,6 @@ Currently exploring ideas at the intersection of Artificial Intelligence, educat
 
 <div align="center">
 
-### Thanks for visiting my profile.
-
-<img src="https://komarev.com/ghpvc/?username=Incarnate-Jayatu&label=Profile+Views&color=00F7FF&style=flat-square" />
-
-<br><br>
-
 <i>Built with curiosity. Driven by innovation. Powered by code.</i>
 
 </div>
