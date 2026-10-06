@@ -138,7 +138,7 @@ An educational tool designed to make algorithm complexity analysis easier throug
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 [Live Demo](https://timecomplexity-seven.vercel.app/)
+🔗 [Live Demo](https://time-complexity-guide.vercel.app/)
 
 </td>
 
