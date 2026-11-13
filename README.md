@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 class JayatuBhattad:
 
     def __init__(self):
-        self.name = "JAYATU"
+        self.name = "JAYATU BHATTAD"
         self.education = "Computer Science Student @ DES Pune University"
         self.interests = [
-            "Artificial Intelligence",
+            "Artificial Intelligence / MACHINE LEARNING",
             "Web Development",
             "Data Structures & Algorithms",
             "Technology & Innovation"
