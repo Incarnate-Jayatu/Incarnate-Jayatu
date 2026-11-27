@@ -77,7 +77,8 @@ My journey revolves around continuous learning, experimentation, and building pr
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=5" />
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="48" width="48" />
 
 </div>
 
